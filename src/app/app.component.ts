@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'clase-9';
+
+
+  mostrar: boolean = false;
+
+
 }
